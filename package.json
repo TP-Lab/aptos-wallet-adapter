@@ -1,8 +1,8 @@
 {
-  "name": "wallet-adapter-plugin-template",
+  "name": "@tp-lab/aptos-wallet-adapter",
   "version": "0.1.0",
-  "description": "Petra plugin to use with Aptos Wallet Adapter",
-  "author": "Petra Aptos",
+  "description": "Aptos Wallet Adapter of TokenPocket",
+  "author": "chendatony31",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
